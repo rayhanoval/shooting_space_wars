@@ -258,7 +258,7 @@ def main_menu():
                 main()
     pygame.quit()
 
-    print('test ngeprint')
+    print('test ngeprint 2')
 
 
 main_menu()
